@@ -1,5 +1,4 @@
 Computer Organization
-- week 1
 ### W1_L2_Module_Introduction
 Outline
 - Introduction 
